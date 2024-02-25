@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{ADEF29AA-EA04-4C92-B7A2-09A1E4BE616F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Controllers/StockController.cs" Line="20" Column="1" />
+      <File FileName="Models/Stock.cs" Line="6" Column="5" />
+      <File FileName="Models/OrderN.cs" Line="13" Column="9" />
+      <File FileName="Controllers/OrderController.cs" Line="51" Column="28" />
+      <File FileName="Models/StockHistory.cs" Line="14" Column="2" />
+      <File FileName="Hub/IMessageHubClient.cs" Line="9" Column="31" />
+      <File FileName="Hub/MessageHubClient.cs" Line="8" Column="33" />
+      <File FileName="Program.cs" Line="134" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="stockExchange.API" expanded="True">
+            <Node name="stockExchange.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Hub" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="signalr" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.stockExchange.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

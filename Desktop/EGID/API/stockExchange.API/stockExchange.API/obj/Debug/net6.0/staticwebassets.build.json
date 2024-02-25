@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "aGMhcelMT3qSPXULCZ30jTQeq2bnhKNL5/6KuxfWUaA=",
+  "Source": "stockExchange.API",
+  "BasePath": "_content/stockExchange.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "stockExchange.API/wwwroot",
+      "Source": "stockExchange.API",
+      "ContentRoot": "/Users/ranaelhalawany/Desktop/EGID/API/stockExchange.API/stockExchange.API/wwwroot/",
+      "BasePath": "_content/stockExchange.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ranaelhalawany/Desktop/EGID/API/stockExchange.API/stockExchange.API/wwwroot/js/signalr/dist/browser/signalr.js",
+      "SourceId": "stockExchange.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ranaelhalawany/Desktop/EGID/API/stockExchange.API/stockExchange.API/wwwroot/",
+      "BasePath": "_content/stockExchange.API",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/signalr/dist/browser/signalr.js"
+    }
+  ]
+}
